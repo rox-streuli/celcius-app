@@ -1,0 +1,13 @@
+# What is YAML used for?
+# One of the most common uses for YAML is to create configuration files.
+# It's recommended that configuration files be written in YAML rather
+# than JSON, even though they can be used interchangeably in most cases,
+# because YAML has better readability and is more user-friendly.
+#
+# YAML is also used by the automation tool Ansible to create automation
+# processes, and for Kubernetes resources and deployments.
+#
+# A benefit of using YAML is that YAML files can be added to source
+# control, such as Github, so that changes can be tracked and audited.
+
+runtime: python38
